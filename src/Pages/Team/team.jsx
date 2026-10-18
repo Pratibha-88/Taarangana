@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import Background from '../../Components/Team/background';
 import MemberCard from '../../Components/Team/team';
 import Navbar from '../../Components/Navbar/Navbar';
-import './Team.css';
+import './team.css';
 
 // ==========================================
 // 🛠️ CONFIGURATION & DATA
